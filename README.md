@@ -1,5 +1,11 @@
 # ee-120-labs
-Jupyter Notebook virtual labs developed for EE 120 (https://www2.eecs.berkeley.edu/Courses/EE120/) at UC Berkeley.
+Jupyter Notebook Python virtual labs developed for <a href="https://www2.eecs.berkeley.edu/Courses/EE120/">*EE 120: Signals and Systems*</a> at UC Berkeley. 
+
+## About
+
+We, the EE 120 course staff, first created and deployed a set of five labs in the spring 2019 semester as a project to re-introduce a hands-on lab component to our entry-level upper division course in Signals and Systems. Since then, we've created five more to finish a set of 10, and fine-tuned them based on student feedback.
+
+## The Labs
 
 | Lab                                                 | Topics        |
 | ----------------------------------------------------|---------------|
@@ -10,3 +16,6 @@ Jupyter Notebook virtual labs developed for EE 120 (https://www2.eecs.berkeley.e
 | **Lab 4:** Heart Rate Monitoring                    | <ul><li>Spatial averaging of video of human thumb</li><li>Extract heartbeat frequency via FFT</li></ul> |
 | **Lab 5:** Deconvolution and Imaging                | <ul><li>1D deconvolution (echo cancellation)</li><li>2D convolution (image blurring and sharpening)</li><li>2D deconvolution (Hubble Space Telescope image deblurring)</li></ul>      |
 | **Lab 6:** Control                                  | <ul><li>Closed-loop system analysis</li><li>Signal filtering and root locus analysis</li><li>Feedback control of a virtual inverted pendulum</li></ul>|
+| **Lab 7:** Communication                            | <ul><li>TODO add</li></ul>|
+| **Lab 8:** Shazam                                   | <ul><li>TODO add</li></ul>|
+| **Lab 9:** Wavelets                                 | <ul><li>TODO add</li></ul>|
