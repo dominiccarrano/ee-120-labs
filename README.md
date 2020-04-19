@@ -18,6 +18,6 @@ We, the EE 120 course staff, first created and deployed a set of five labs in th
 | **Lab 4:** Heart Rate Monitoring                    | <ul><li>Spatial averaging of video of human thumb</li><li>Extract heartbeat frequency via FFT</li></ul> |
 | **Lab 5:** Deconvolution and Imaging                | <ul><li>1D deconvolution (echo cancellation)</li><li>2D convolution (image blurring and sharpening)</li><li>2D deconvolution (Hubble Space Telescope image deblurring)</li></ul>      |
 | **Lab 6:** Control                                  | <ul><li>Closed-loop system analysis</li><li>Signal filtering and root locus analysis</li><li>Feedback control of a virtual inverted pendulum</li></ul>|
-| **Lab 7:** Communication                            | <ul><li>On-Off Keeying</li><li>FSK and BPSK</li><li>QAM</li></ul>|
-| **Lab 8:** Shazam                                   | <ul><li>Spectrograms</li><li>Audio Fingerprinting</li></ul>|
+| **Lab 7:** Communication                            | <ul><li>On-Off Keeying</li><li>Frequency Shift Keying and Binary Phase Shift Keying</li><li>Quadrature Amplitude Modulation</li></ul>|
+| **Lab 8:** Shazam                                   | <ul><li>Spectrograms and STFT</li><li>Audio Fingerprinting</li></ul>|
 | **Lab 9:** Wavelets                                 | <ul><li>TODO add</li></ul>|
