@@ -1,13 +1,15 @@
 # ee-120-labs
-Jupyter Notebook Python virtual labs developed for <a href="https://www2.eecs.berkeley.edu/Courses/EE120/">*EE 120: Signals and Systems*</a> at UC Berkeley. 
+Python virtual labs based on the Jupyter Notebook developed for <a href="https://www2.eecs.berkeley.edu/Courses/EE120/">*EE 120: Signals and Systems*</a> at UC Berkeley. 
 
 ## About
 
-We, the EE 120 course staff, first created and deployed a set of five labs in the spring 2019 semester as a project to re-introduce a hands-on lab component to our entry-level upper division course in Signals and Systems. Since then, we've created five more to finish a set of 10, and fine-tuned them based on student feedback.
+In the spring 2019 semester, we created a set of five labs as a project to re-introduce a hands-on lab component to our entry-level upper-division course in Signals and Systems. Since then, we've created five more to form a set of 10, and fine-tuned them based on student feedback.
+
+Our paper summarizing the work has been accepted to the *2020 International Conference on Higher Education Advances*, and a prepublication version is available online [here](https://dominiccarrano.github.io/files/SelfContainedJupyterNotebookLabs.pdf).
+
+The versions here are without solutions. If you're an educator at another institution and would like to use these in your course, contact Babak Ayazifar (ayazifar@berkeley.edu) about acquiring solutions.
 
 ## The Labs
-
-
 
 | Lab                                                 | Topics        |
 | ----------------------------------------------------|---------------|
@@ -20,4 +22,4 @@ We, the EE 120 course staff, first created and deployed a set of five labs in th
 | **Lab 6:** Control                                  | <ul><li>Closed-loop system analysis</li><li>Signal filtering and root locus analysis</li><li>Feedback control of a virtual inverted pendulum</li></ul>|
 | **Lab 7:** Communication                            | <ul><li>On-Off Keeying</li><li>Frequency Shift Keying and Binary Phase Shift Keying</li><li>Quadrature Amplitude Modulation</li></ul>|
 | **Lab 8:** Shazam                                   | <ul><li>Spectrograms and STFT</li><li>Audio Fingerprinting</li></ul>|
-| **Lab 9:** Wavelets                                 | <ul><li>TODO add</li></ul>|
+| **Lab 9:** Wavelets                                 | <ul><li>Implementation via filter banks</li><li>Comparison with DFT</li></ul>|
