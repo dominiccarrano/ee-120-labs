@@ -3,11 +3,9 @@ Python virtual labs based on the Jupyter Notebook developed for <a href="https:/
 
 ## About
 
-In the spring 2019 semester, we created a set of five labs as a project to re-introduce a hands-on lab component to our entry-level upper-division course in Signals and Systems. Since then, we've created five more to form a set of 10, and fine-tuned them based on student feedback.
+Our paper summarizing this work has been accepted to the *2020 International Conference on Higher Education Advances*. A prepublication version is available online [here](https://dominiccarrano.github.io/files/SelfContainedJupyterNotebookLabs.pdf).
 
-Our paper summarizing the work has been accepted to the *2020 International Conference on Higher Education Advances*. A prepublication version is available online [here](https://dominiccarrano.github.io/files/SelfContainedJupyterNotebookLabs.pdf).
-
-The versions here are without solutions. If you're an educator at another institution and would like to use these in your course, contact Babak Ayazifar (ayazifar@berkeley.edu) about acquiring solutions.
+The versions here are without solutions. If you're an educator at another institution and would like to use these in your course, contact Prof. Babak Ayazifar (ayazifar@berkeley.edu) about acquiring solutions.
 
 ## The Labs
 
