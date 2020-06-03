@@ -3,7 +3,11 @@ Python virtual labs implemented via the Jupyter Notebook developed for <a href="
 
 ## About
 
-We presented our labs at the *2020 International Conference on Higher Education Advances*. The paper is available [here](http://headconf.org/wp-content/uploads/pdfs/11308.pdf), and the presentation is available [here](https://drive.google.com/drive/folders/17B5A7IzlPZ4XTkwEH-Kr77HNkN9gyxgh?usp=sharing).
+These labs were developed by the EE 120 course staff in the spring 2019, fall 2019, and spring 2020 semesters.
+
+We presented these labs at the *2020 International Conference on Higher Education Advances*. The paper is available [here](http://headconf.org/wp-content/uploads/pdfs/11308.pdf), and the presentation is available [here](https://drive.google.com/drive/folders/17B5A7IzlPZ4XTkwEH-Kr77HNkN9gyxgh?usp=sharing).
+
+## Usage
 
 The relevant Jupyter Notebook (.ipynb) file that students complete for Lab N is at `labN/labN.ipynb`. For example, the file for Lab 3 is named `lab3.ipynb`, located in the `lab3` folder. The folder `labN` also contains all resources necessary for that lab to function as intended. Changing the directory structure provided in this repository may cause issues, since the labs expect certain fixed filepaths (e.g., when displaying images inside the notebook, loading data from provided files, or running test cases to provide students with sanity checks on their work).
 
