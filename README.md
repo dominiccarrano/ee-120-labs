@@ -1,5 +1,5 @@
 # ee-120-labs
-Python virtual labs implemented via Jupyter Notebook developed for <a href="https://www2.eecs.berkeley.edu/Courses/EE120/">*EE 120: Signals and Systems*</a> at UC Berkeley. 
+Python virtual labs implemented via the Jupyter Notebook developed for <a href="https://www2.eecs.berkeley.edu/Courses/EE120/">*EE 120: Signals and Systems*</a> at UC Berkeley. 
 
 ## About
 
