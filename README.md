@@ -3,7 +3,7 @@ Python virtual labs implemented via the Jupyter Notebook developed for <a href="
 
 ## About
 
-We presented our labs at the *2020 International Conference on Higher Education Advances*. The paper is available online [here](http://headconf.org/wp-content/uploads/pdfs/11308.pdf), and the presentation is available [here](https://drive.google.com/drive/folders/17B5A7IzlPZ4XTkwEH-Kr77HNkN9gyxgh?usp=sharing).
+We presented our labs at the *2020 International Conference on Higher Education Advances*. The paper is available [here](http://headconf.org/wp-content/uploads/pdfs/11308.pdf), and the presentation is available [here](https://drive.google.com/drive/folders/17B5A7IzlPZ4XTkwEH-Kr77HNkN9gyxgh?usp=sharing).
 
 The versions here are without solutions. If you're an educator at another institution and would like to use these in your course, contact Prof. Babak Ayazifar (ayazifar@berkeley.edu) about acquiring solutions.
 
