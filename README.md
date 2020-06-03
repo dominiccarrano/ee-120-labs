@@ -5,7 +5,7 @@ Python virtual labs implemented via the Jupyter Notebook developed for <a href="
 
 These labs were developed by the EE 120 course staff in the spring 2019, fall 2019, and spring 2020 semesters.
 
-We presented these labs at the *2020 International Conference on Higher Education Advances*. The paper is available [here](http://headconf.org/wp-content/uploads/pdfs/11308.pdf), and the presentation is available [here](https://drive.google.com/drive/folders/17B5A7IzlPZ4XTkwEH-Kr77HNkN9gyxgh?usp=sharing).
+We presented these labs at the *2020 International Conference on Higher Education Advances*. The paper is available [here](http://headconf.org/wp-content/uploads/pdfs/11308.pdf).
 
 ## Usage
 
