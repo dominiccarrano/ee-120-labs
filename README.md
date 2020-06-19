@@ -3,7 +3,7 @@ Python virtual labs implemented via the Jupyter Notebook developed for <a href="
 
 ## About
 
-These labs were developed by the EE 120 course staff in the spring 2019, fall 2019, and spring 2020 semesters.
+These labs were developed by the EE 120 course staff in the spring 2019, fall 2019, and spring 2020 semesters. The topics follow our course's content and are listed below. They're ideal for an entry-level upper division course with a focus in signal processing where the students have some prior programming exposure.
 
 We presented these labs at the *2020 International Conference on Higher Education Advances*. The paper is available [here](http://headconf.org/wp-content/uploads/pdfs/11308.pdf).
 
