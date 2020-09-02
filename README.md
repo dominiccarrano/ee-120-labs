@@ -27,4 +27,4 @@ The versions here are without solutions. If you're an educator at another instit
 | **Lab 6:** Control                                  | <ul><li>Satellite stabilization</li><li>Open-loop vs closed-loop control</li><li>Nonlinear control</li></ul>|
 | **Lab 7:** Communication                            | <ul><li>Amplitude Modulation</li><li>On-Off Keying</li></ul>|
 | **Lab 8:** Shazam                                   | <ul><li>Spectrograms and STFT</li><li>Audio Fingerprinting</li></ul>|
-| **Lab 9:** Wavelets                                 | <ul><li>Haar Basis vs DFT Basis</li><li>Implementation via filter banks</li><li>Scalable Video Compression via Wavelets</li></ul>|
+| **Lab 9:** Wavelets                                 | <ul><li>Haar Basis vs DFT Basis</li><li>Implementation via filter banks</li><li> Image/Video Compression via Wavelets</li></ul>|
